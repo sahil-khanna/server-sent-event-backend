@@ -11,4 +11,4 @@ Execute the below commands
 ```npm start```
 
 # Usage
-Refer to the [Postman Collection](https://github.com/sahil-khanna/server-sent-event-backend/blob/main/Server-Sent%20Events.postman_collection.json) to know how to trigger messages to the SSE client connected to this API
+Refer to the [Postman Collection](https://github.com/sahil-khanna/server-sent-event-backend/blob/main/Server-Sent%20Events.postman_collection.json) to know how to trigger messages to the SSE client connected to this API.
