@@ -21,4 +21,4 @@ jobs:
       env:
         SONAR_TOKEN: ${{ secrets.SONARQUBE_TOKEN }}
         SONAR_HOST_URL: ${{ secrets.SONARQUBE_HOST }}
-        projectKey: "SonarDemoApp"
+        SONAR_PROJECT_KEY: "SonarDemoApp"
